@@ -3,10 +3,10 @@
 Sistema simples de cadastro e gerenciamento de usuários, desenvolvido em TypeScript, com foco em tipagem estática e lógica de programação.
 
 ## 🚀 Funcionalidades
-- Cadastro de usuários
-- Listagem de usuários
-- Estruturação de dados com interfaces
-- Validação básica de informações
+- Partida inicia
+- Um dos personagens ganha
+- Ganha coins
+- VIra adm ou é banido
 
 ## 🛠️ Tecnologias utilizadas
 - TypeScript
