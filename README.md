@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Usuários – TypeScript
+# Sistema de Jogo de Usuários – TypeScript
 
 Sistema simples de cadastro e gerenciamento de usuários, desenvolvido em TypeScript, com foco em tipagem estática e lógica de programação.
 
